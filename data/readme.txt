@@ -1,0 +1,2 @@
+- Download your Word2Vec model and raw text files here.
+- Pre-process as in ../notebooks/preprocess.ipynb and save.
