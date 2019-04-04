@@ -1,4 +1,7 @@
 # Retrogram
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ### Retrofitted word vectors with Word2Vec skip-gram model
 
 This project is inspired from [Mittens](https://github.com/roamanalytics/mittens) which extends the GloVe model 
