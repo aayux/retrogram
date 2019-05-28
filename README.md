@@ -12,5 +12,5 @@ However, GloVe objective requires a co-occurence matrix of size V<sup>2</sup> to
 held in-memory, where V is the size of the domain adapted vocabulary. Needless to say, this method 
 becomes difficult to scale with growing vocabulary size.
 
-By replacing the GloVe model with skip-gram reduces the size of the matrix to V×E where E is the embedding dimension 
+Replacing the GloVe model with skip-gram reduces the size of the matrix to V×E where E is the embedding dimension 
 and depends on the pre-trained word-embeddings being utilised.
